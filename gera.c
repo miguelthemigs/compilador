@@ -1,6 +1,3 @@
-/* Miguel Werneck Roale 2210457 Turma 3WA*/
-/* Gabriel Pereira da Silva Araujo 2211136 Turma 3WA*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
