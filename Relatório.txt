@@ -1,0 +1,28 @@
+Miguel Werneck Roale 2210457 Turma 3WA
+Gabriel Pereira da Silva Araujo 2211136 Turma 3WA
+
+  No nosso trabalho. Todas as solicitações do trabalho foram atendidas com excelência. O código/programa desenvolvido passou por diversos testes (22 no total) e está completamente livre de erros, garantindo um que não possuísse erro na codificação. Além disso, conduzimos uma série de testes abrangentes, os quais foram concluídos com sucesso em todas as etapas.
+  
+  Em cada teste tínhamos como objetivo testar funções específicas, levando em conta a técnica pedida no enunciado do trabalho (TDD), segue a lista de testes e seus objetivos:
+  
+    1- Testamos a função de retorno
+    2- Testamos uma atribuição de variável a um inteiro;
+    3- Testamos uma atribuição de variável com variável;
+    4- Testamos 5 atribuições de variável, para testar o número máximo de variáveis;
+    5- Testamos atribuição de parâmetro em variável;
+    6- Testamos a operação aritmética de soma;
+    7- Testamos a operação aritmética de subtração;
+    8- Testamos a operação aritmética de multiplicação;
+    9- Testamos a operação aritmética de soma com números negativos;
+    10- Testamos a operação aritmética de subtração com números negativos;
+    11- Testamos a operação aritmética de multiplicação com 1 número negativo;
+    12- Testamos a operação aritmética de multiplicação com 2 números negativos;
+    13- Testamos 3 atribuições de parâmetro em variável, para testar o número máximo de parâmetros;
+    14- Testamos o iflez (desvio condicional) para uma linha posterior;
+    15- Testamos  o iflez (desvio condicional) para uma linha anterior;
+    16- Testamos um programa com bastante código da Linguagem Simples;
+    17- Testamos a função f(x) = x + 1, proposta no enunciado;
+    18- Testamos a  uma função que avalia se seu argumento é negativo, proposta no enunciado;
+    19- Testamos a função f(x,y) = (x+y) * (x-y), proposta no enunciado;
+    20- Testamos a função fatorial, proposta no enunciado do trabalho;
+    21- Testamos atribuição do p2, antes dos parâmetro p1 e mudando ordem das variáveis;
