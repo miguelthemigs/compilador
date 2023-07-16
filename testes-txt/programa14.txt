@@ -1,0 +1,4 @@
+v1 < $-10
+iflez v1 4
+ret $0
+ret $1
