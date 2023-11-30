@@ -1,2 +1,2 @@
 # compilador
-Um compilador de uma linguagem de programação criada na matéria de software básico. Utilizado o método TDD para testar a lingugem.
+A compiler for a programming language created in the subject of Basic Software, utilizing the Test-Driven Development (TDD) method to test the language.
